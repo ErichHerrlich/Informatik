@@ -22,4 +22,4 @@ CREATE TABLE Nutzer
    insert into Nutzer
    values (505,VIK,aliproductionshotmail_de,53225,24,11-07-2011,756637,290);
    insert into Nutzer
-   values (606,FamilieMensch,FamilieMenschgmail_com,52543,24,27-11-2013,74274,455)
+   values (606,FamilieMensch,FamilieMenschgmail_com,52543,24,27-11-2013,74274,455);
